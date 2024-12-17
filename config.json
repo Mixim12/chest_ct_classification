@@ -1,0 +1,11 @@
+{
+  "train_path": "data/train",
+  "valid_path": "data/valid",
+  "test_path": "data/test",
+  "save_model_path": "saved_models",
+  "log_dir": "runs",
+
+  "train_epochs": 50,
+  "batch_size": 16,
+  "lr": 0.0001
+}

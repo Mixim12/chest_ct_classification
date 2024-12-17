@@ -1,0 +1,9 @@
+data/test
+data/train
+data/valid
+data/image.ipynb
+runs/
+data/__pycache__
+.python-version
+__pycache__/
+saved_models/
